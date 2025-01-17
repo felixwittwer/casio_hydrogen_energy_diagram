@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "ETSH2.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "ETSH2"
+[APPNAME]    : "@ETSH2"
+[VERSION]    : "01.00.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "ETSH2"
+[MOD1_ICON]  : "eActivityIcon.bmp"
